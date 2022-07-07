@@ -73,7 +73,31 @@ FROM mentorship_eligibility
 
 
 
+-- Retrieve the number of employees by their most recent job title who are eligible for mentorship
+SELECT count(emp_no), title
+INTO mentorship_titles
+FROM mentorship_eligibility
+
+GROUP BY title
+ORDER BY COUNT(emp_no) DESC;
+
+-- Check Table
+select * 
+from mentorship_titles
 
 
+
+--Create query for comparison
+SELECT rt.count/mt.count,
+	rt.title
+INTO retiring_per_mentored
+FROM retiring_titles as rt
+LEFT JOIN mentorship_titles as mt
+ON rt.title = mt.title
+
+drop table test
+
+select sum(count)
+from retiring_titles
 
 
