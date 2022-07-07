@@ -1,7 +1,7 @@
 # Pewlett_Hackard_Analysis
 
 ## Overview
-The silver tsunami is a slow but inevitable wave rolling towards the Pewlett Hackard organization. As the baby boomers head to retirement, the parched talent pool will be in need of some watering before the brain drain begins. We will need to analyze Pewlett Hackards data to determine how many employees are heading into retirement, and then compare that with a set of employees that can enter a mentorship program to fill the gap left behind by the silver tsunami. 
+The silver tsunami is a slow but inevitable wave rolling towards the Pewlett Hackard organization. As the baby boomers head to retirement, the parched pool of talent will be in need of some watering before the brain drain begins. We will need to analyze Pewlett Hackards data to determine how many employees are heading into retirement, and then compare that with a set of employees that can enter a mentorship program to fill the gap left behind by the silver tsunami. 
 
 
 ## Results
