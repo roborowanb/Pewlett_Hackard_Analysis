@@ -20,6 +20,7 @@ We notice here that:
 After running a query to sum the count of employees nearing retirement, there are 72,458 roles that will need to be replaced at full impact. 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 After creating a table comparing the number of employees nearing retirement vs eligibile for mentorship, there are definitely enough people nearing retirement to teach the pool of those eligible for mentorship. The question should actually be are there enough employees being mentored to replace those who are nearing retirement. As seen below, there are 153 senior engineers nearing retirement for every senior engineer eligible for mentorship. Even at the lowest levels, in positions like Assistant Engineer, there are still 13 nearing retirement for every one eligible for mentorship. 
+
 ![alt text](https://github.com/roborowanb/Pewlett_Hackard_Analysis/blob/63715c04171a468eb407852333b64d0f8a7c6137/Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Percap.png)
 
 Look out! The Tsunami is coming!
